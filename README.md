@@ -17,4 +17,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Calculadora Moderna](https://alarme-em-js.netlify.app/)
+- [Calculadora Moderna](https://calculadoramoderna.netlify.app/)
